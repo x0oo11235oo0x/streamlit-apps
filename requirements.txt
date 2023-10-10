@@ -24,7 +24,7 @@ executing==0.8.3
 face==20.1.1
 fastjsonschema==2.15.3
 gitdb==4.0.9
-GitPython==3.1.27
+GitPython==3.1.37
 glom==22.1.0
 idna==3.3
 importlib-metadata==4.12.0
